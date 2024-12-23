@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Block sensitive or unnecessary files/folders
+Disallow: /scripts/
+Disallow: /styles/
+Disallow: /images/
+
+# Sitemap location
+Sitemap: https://yourwebsite.com/sitemap.xml
